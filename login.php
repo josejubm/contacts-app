@@ -67,8 +67,9 @@
 
             <div class="mb-3 row">
               <div class="col-md-6 offset-md-4">
-                <button type="submit" class="btn btn-primary">Submit</button>
-              </div>
+                <button type="submit" class="btn btn-success">Submit</button>        
+              </div> 
+             
             </div>
           </form>
         </div>
